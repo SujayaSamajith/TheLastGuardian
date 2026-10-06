@@ -149,9 +149,7 @@ git clone https://github.com/YOUR_USERNAME/TheLastGuardian.git
 4. Open the project with the compatible Unity version.
 5. Open the main scene from:
 
-```text
-Assets/Scenes/SampleScene.unity
-```
+
 
 6. Press **Play** in Unity.
 
@@ -159,19 +157,19 @@ Assets/Scenes/SampleScene.unity
 
 Add screenshots of the game here:
 
-```markdown
+
 
 <img width="667" height="374" alt="image" src="https://github.com/user-attachments/assets/1c77e45d-4448-4225-ab7d-6d252b7466e2" />
 
-```
+
 
 ## 🎥 Gameplay Video
 
 Add your gameplay video or LinkedIn/YouTube link here.
 
-```text
+
 https://lnkd.in/p/gwX2QbQ6
-```
+
 
 ## 📌 Project Status
 
