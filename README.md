@@ -160,7 +160,8 @@ Assets/Scenes/SampleScene.unity
 Add screenshots of the game here:
 
 ```markdown
-<img width="667" height="374" alt="image" src="https://github.com/user-attachments/assets/8d25b770-f390-46ad-89c5-5216de9424ef" />
+
+<img width="667" height="374" alt="image" src="https://github.com/user-attachments/assets/1c77e45d-4448-4225-ab7d-6d252b7466e2" />
 
 ```
 
@@ -169,7 +170,7 @@ Add screenshots of the game here:
 Add your gameplay video or LinkedIn/YouTube link here.
 
 ```text
-[Gameplay Video: YOUR_VIDEO_LINK](https://lnkd.in/p/gwX2QbQ6)
+https://lnkd.in/p/gwX2QbQ6
 ```
 
 ## 📌 Project Status
